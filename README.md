@@ -2,11 +2,17 @@ CircuitPython code to create a touch screen math drill box.
 HARDWARE
 --------
  Adafruit Feather RP2350
+ 
  3.2" ILI9341 SPI TFT LCD Display Touch Panel 320x240 TFT LCD Touch Screen
+ 
  DS3231 RTC Module
+ 
  Neopixel LED (1)
+ 
  SD Card
+ 
  Piezo buzzer
+ 
  ----------------------------------------------------------------------
 
 GAME PLAY
