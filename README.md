@@ -1,4 +1,5 @@
-**CircuitPython code to create a touch screen math drill box. **
+CircuitPython code to create a touch screen math drill box
+----------------------------------------------------------
 
 HARDWARE
 --------
