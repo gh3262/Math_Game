@@ -4,7 +4,7 @@ HARDWARE
 --------
  Adafruit Feather RP2350
  
- 3.2" ILI9341 SPI TFT LCD Display Touch Panel 320x240 TFT LCD Touch Screen
+ 3.2" ILI9341 SPI TFT LCD Display Touch Panel 320x240 TFT LCD Touch Screen - XPT2046 Touch Controller
  
  DS3231 RTC Module
  
